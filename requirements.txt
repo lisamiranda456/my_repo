@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+transformers
+torch  # Add any additional dependencies for Llama model
